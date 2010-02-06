@@ -1,0 +1,1 @@
+-e git://github.com/domain51/d51.django.virtualenv.base.git@0.1#egg=d51.django.virtualenv.base
